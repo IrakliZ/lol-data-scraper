@@ -71,9 +71,6 @@ def update_data(data):
         return 'No new games added'
 
 if __name__ == '__main__':
-    for i in range(20):
-        print(get_summoner_id('ThatSpysASpy'))
-    
     #setup_initial_data(get_recent_games(get_summoner_id('thatSpysASpy')))
     while(True):
         new_games = update_game_data('ThatSpysASpy')
