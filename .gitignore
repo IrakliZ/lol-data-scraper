@@ -1,3 +1,4 @@
 previous_games*.json
 *.swp
 venv
+setup.sh
