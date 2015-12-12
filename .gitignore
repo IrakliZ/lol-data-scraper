@@ -1,0 +1,3 @@
+previous_games*.json
+*.swp
+venv
